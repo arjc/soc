@@ -1,7 +1,7 @@
-<img width="1280" height="640" alt="git (1)" src="https://github.com/user-attachments/assets/8920b256-2ba8-4988-b824-5351134eb4bd" />
-
 
 # SOC Somanu Oru Chaya 
+![Soman Collage](https://github.com/arjc/useless_project_grove_street/blob/main/public/soman.png)
+*Final result on how Soman chettan will react to your chaaya*
 
 ## Basic Details
 ### Team Name: Grove Street
